@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">حصن المسلم </string>
+
+    <string name="summarry1">المقدمة</string>
+    <string name="summarry2">فضل الذكر</string>
+    <string name="summarry3">اذكار الاستيقاظ من النوم</string>
+    <string name="summarry4">دعاء لبس الثوب</string>
+    <string name="summarry5">دعاء لبس الثوب الجديد</string>
+    <string name="summarry6">الدعاء لمن لبس ثوباً جديداً</string>
+    <string name="summarry7">ما يقول إذا وضع الثوب</string>
+    <string name="summarry8">دعاء دخول الخلاء</string>
+    <string name="summarry9">دعاء الخروج من الخلاء</string>
+    <string name="summarry10">الذكر قبل الوضوء</string>
+    <string name="summarry11">الذكر بعد الفراغ من الوضوء</string>
+
+    <string name="summarry12">الذكر عند الخروج من المنزل</string>
+    <string name="summarry13">الذكر عند الدخول المنزل</string>
+    <string name="summarry14">دعاء الذهاب إلى المسجد</string>
+    <string name="summarry15">دعاء دخول المسجد</string>
+    <string name="summarry16">دعاء الخروج من المسجد</string>
+    <string name="summarry17">اذكار الاذان</string>
+    <string name="summarry18">دعاء الاستفتاح</string>
+    <string name="summarry19">دعاء الركوع</string>
+    <string name="summarry20">دعاء  الرفع من الركوع</string>
+    <string name="summarry21">دعاء السجود</string>
+    <string name="summarry22">دعاء الجلسة بين السجدتين</string>
+    <string name="summarry23">دعاء سجود التلاوة</string>
+    <string name="summarry24">التشهد</string>
+    <string name="summarry25">الصلاة على النبي صلى الله عليه وسلم  بعد التشهد</string>
+
+    <string name="summarry26">الدعاء بعد التشهد الاخير وقبل السلام</string>
+    <string name="summarry27">الاذكار بعد السلام من الصلاة</string>
+    <string name="summarry28">دعاء صلاة الاستخارة</string>
+    <string name="summarry29">اذكار الصباح والمساء</string>
+    <string name="summarry30">اذكار النوم</string>
+    <string name="summarry31">الدعاء إذا تقلب ليلاً</string>
+    <string name="summarry32">دعاء القلق والفزع في النوم ومن بلي بالوحشة</string>
+    <string name="summarry33">ما يفعل من راى الرؤيا او الحلم</string>
+    <string name="summarry34">دعاء قنوت الوتر</string>
+    <string name="summarry35">الذكر عقب السلام من الوتر</string>
+    <string name="summarry36">دعاء الهم والحزن</string>
+    <string name="summarry37">دعاء الكرب</string>
+    <string name="summarry38">دعاء لقاء العدو وذي السلطان</string>
+    <string name="summarry39">دعاء من خاف ظلم السلطان</string>
+
+    <string name="summarry40">الدعاء على العدو</string>
+    <string name="summarry41">ما يقول من خاف قوماً</string>
+    <string name="summarry42">دعاء من اصابه شك في الإيمان</string>
+    <string name="summarry43">الدعاء قضاء الدين</string>
+    <string name="summarry44">دعاء الوسوسة في الصلاة والقراءة</string>
+    <string name="summarry45">دعاء من استصعب عليه امر</string>
+    <string name="summarry46">ما يقول ويفعل من اذنب ذنباً</string>
+    <string name="summarry47">دعاء طرد الشيطان ووساوسه</string>
+    <string name="summarry48">الدعاء حينما يقع مالا يرضاه او غلب على امره</string>
+    <string name="summarry49">تهنئة المولود له وجوابه</string>
+    <string name="summarry50">ما يعوذ به الاولاد</string>
+    <string name="summarry51">الدعاء للمريض في عيادته</string>
+    <string name="summarry52">فضل عيادة المريض</string>
+
+    <string name="summarry53">دعاء المريض الذي يئس من حياته</string>
+    <string name="summarry54">تلقين المحتضر</string>
+    <string name="summarry55">دعاء من اصيب بمصيبة</string>
+    <string name="summarry56">الدعاء عند إغماض الميت</string>
+    <string name="summarry57">الدعاء للميت في الصلاة عليه</string>
+    <string name="summarry58">الدعاء للفرط في الصلاة عليه</string>
+    <string name="summarry59">دعاء التعزية</string>
+    <string name="summarry60">دعاء عند إدخال الميت القبر</string>
+    <string name="summarry61">دعاء بعد دفن الميت</string>
+    <string name="summarry62">دعاء زيارة القبور</string>
+    <string name="summarry63">دعاء الريح</string>
+    <string name="summarry64">الدعاء الرعد</string>
+    <string name="summarry65">من ادعية الاستسقاء</string>
+    <string name="summarry66">الدعاء إذا نزل المطر</string>
+
+
+    <string name="summarry67">الذكر بعد نزول المطر</string>
+    <string name="summarry68">من ادعية الاستصحاء</string>
+    <string name="summarry69">الدعاء رؤية الهلال</string>
+    <string name="summarry70">دعاء عند إفطار الصائم</string>
+    <string name="summarry71">الدعاء قبل الطعام</string>
+    <string name="summarry72">الدعاء عند الفراغ من الطعام</string>
+    <string name="summarry73">دعاء الضيف لصاحب الطعام</string>
+    <string name="summarry74">الدعاء لمن سقاه او إذا اراد ذلك</string>
+    <string name="summarry75">دعاء إذا افطر عند اهل بيت</string>
+    <string name="summarry76">دعاء الصائم إذا حضر الطعام ولم يفطر</string>
+    <string name="summarry77">ما يقول الصائم إذا سابه احد</string>
+    <string name="summarry78">الدعاء عند رؤية باكورة الثمر</string>
+    <string name="summarry79">دعاء العطاس</string>
+
+
+    <string name="summarry80">ما يقالُ للكافر إذا عطس فحمد الله</string>
+    <string name="summarry81">دعاء للمتزوج</string>
+    <string name="summarry82">دعاء المتزوج وشراء الدابة</string>
+    <string name="summarry83">الدعاء قبل إتيان الزوجة</string>
+    <string name="summarry84">دعاء الغضب</string>
+    <string name="summarry85">دعاء من راى مبتلى</string>
+    <string name="summarry86">ما يقال في المجلس</string>
+    <string name="summarry87">كفارة المجلس</string>
+    <string name="summarry88">الدعاء لمن قال غفر الله لك</string>
+    <string name="summarry89">الدعاء لمن صنع لك معروفاً</string>
+    <string name="summarry90">ما يعصم به من الدجال</string>
+    <string name="summarry91">الدعاء لمن قال إني احبك في الله</string>
+    <string name="summarry92">الدعاء لمن عرض عليك ماله</string>
+    <string name="summarry93">الدعاء لمن اقرض عند القضاء</string>
+
+
+    <string name="summarry94">دعاء الخوف من الشرك</string>
+    <string name="summarry95">الدعاء لمن قال بارك الله فيك</string>
+    <string name="summarry96">دعاء كراهية الطيرة</string>
+    <string name="summarry97">دعاء الركوب</string>
+    <string name="summarry98">دعاء السفر</string>
+    <string name="summarry99">دعاء دخول القرية او البلدة</string>
+    <string name="summarry100">دعاء دخول السوق</string>
+    <string name="summarry101">الدعاء إذا تعس المركوب</string>
+    <string name="summarry102">دعاء المسافر للمقيم</string>
+    <string name="summarry103">دعاء المقيم للمسافر</string>
+    <string name="summarry104">التكبير والتسبيح في سير السفر</string>
+    <string name="summarry105">دعاء المسافر إذا اسحر</string>
+    <string name="summarry106">الدعاء إذا نزل منزلا في سفر او غيره</string>
+
+
+    <string name="summarry107">ذكر الرجوع من السفر</string>
+    <string name="summarry108">ما يقول ويفعل من اتاه امر يسره او يكرهه</string>
+    <string name="summarry109">فضل الصلاة على النبي صلى الله عليه وسلم</string>
+    <string name="summarry110">إفشاء السلام</string>
+    <string name="summarry111">كيف يرد السلام على الكافر إذا سلم</string>
+    <string name="summarry112">دعاء صياح الديك ونهيق الحمار</string>
+    <string name="summarry_kaleb">دعاء نباح الكلاب بالليل</string>
+    <string name="summarry113">الدعاء لمن سببته</string>
+    <string name="summarry114">ما يقول المسلم إذا مدح المسلم</string>
+    <string name="summarry115">ما يقول المسلم إذا زكي</string>
+    <string name="summarry116">كيف يلبي المحرم في الحج او العمرة</string>
+    <string name="summarry117">التكبيرة إذا اتي الركن الاسود</string>
+
+
+    <string name="summarry118">الدعاء بين الركن اليماني والحجر الاسود</string>
+    <string name="summarry119">دعاء الوقوف على الصفا والمروة</string>
+    <string name="summarry120">الدعاء يوم عرفة</string>
+    <string name="summarry121">الذكر عند المشعر الحرام</string>
+    <string name="summarry122">التكبيرة عند رمي الجمار مع كل حصاة</string>
+    <string name="summarry123">ما يقول عند التعجب والامر السار</string>
+    <string name="summarry124">ما يفعل من اتاه امر يسره</string>
+    <string name="summarry125">ما يقول من احس وجعاً في جسده</string>
+    <string name="summarry126">دعاء من خشي ان يصيب شيئاً بعينه</string>
+    <string name="summarry127">ما يقال عند الفزع</string>
+    <string name="summarry128">ما يقول عند الذبح او النحر</string>
+
+    <string name="summarry129">ما يقول لرد كيد مردة الشياطين</string>
+    <string name="summarry130">الاستغفار والتوبة</string>
+    <string name="summarry131">فضل التسبيح والتحميد ، والتهليل ، والتكبير</string>
+    <string name="summarry132">كيف كان النبي صلى الله عليه وسلم يسبح ؟</string>
+    <string name="summarry133">من انواع الخير والآداب الجامعة</string>
+
+    <string name="share">شارك التطبيق</string>
+    <string name="rating">تقييم التطبيق</string>
+    <string name="ourApplications">تطبيقات اخرى</string>
+
+    <string name="content">السلام عليكم ورحمة الله وبركاته , تطبيق حصن المسلم متوفرعلى متجر جوجول بتصميم متريال ديزاين</string>
+    <string name="link">http://google play</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titre">اذكار الصباح</string>
+    <string name="titre1">اذكار المساء</string>
+    <string name="titre2">اذكار النوم</string>
+    <string name="sousTitre">تذكير باذكارالصباح</string>
+    <string name="sousTitre1">تذكير باذكارالمساء</string>
+    <string name="sousTitre2">تذكير باذكارالنوم</string>
+    <string name="settings">اعدادت التطبيق</string>
+    <string name="message_box_title">hello</string>
+    <string name="message_timesheet_not_up_to_date">hello</string>
+    <string name="notFound">خدمة غير متوفرة</string>
+    <string name="facebook_app_id">1025157817526716</string>
+    <string name="search">بحث ...</string>
+    <string name="name_summary">الفهرس</string>
+
+
+</resources>

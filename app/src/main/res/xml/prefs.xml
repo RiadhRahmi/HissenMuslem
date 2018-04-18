@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/titre">
+        <CheckBoxPreference
+            android:key="title1"
+            android:persistent="true"
+            android:title="@string/sousTitre"
+            android:defaultValue="false"
+            />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/titre1">
+        <CheckBoxPreference
+            android:key="title2"
+            android:persistent="true"
+            android:title="@string/sousTitre1"
+            android:defaultValue="false"
+            />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/titre2">
+        <CheckBoxPreference
+            android:key="title3"
+            android:persistent="true"
+            android:title="@string/sousTitre2"
+            android:defaultValue="false"
+            />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

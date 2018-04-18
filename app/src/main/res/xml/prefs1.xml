@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory>
+        <Preference
+            android:dialogTitle="@string/share"
+            android:key="share"
+            android:persistent="true"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="@string/share" />
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <Preference
+            android:dialogTitle="@string/rating"
+            android:key="rating"
+            android:persistent="true"
+            android:icon="@drawable/ic_star_border_black_24dp"
+            android:title="@string/rating" />
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <Preference
+            android:dialogTitle="@string/ourApplications"
+            android:key="ourApplications"
+            android:persistent="true"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="@string/ourApplications" />
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

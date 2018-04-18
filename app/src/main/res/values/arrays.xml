@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <array name="atPage">
+
+        <item>"5"</item>
+        <item>"8"</item>
+        <item>"14"</item>
+        <item>"18"</item>
+        <item>"19"</item>
+        <item>"19"</item>
+        <item>"20"</item>
+        <item>"20"</item>
+        <item>"21"</item>
+        <item>"21"</item>
+        <item>"21"</item>
+
+
+        <item>"22"</item>
+        <item>"23"</item>
+        <item>"23"</item>
+        <item>"25"</item>
+        <item>"26"</item>
+        <item>"27"</item>
+        <item>"29"</item>
+        <item>"34"</item>
+        <item>"36"</item>
+        <item>"37"</item>
+        <item>"39"</item>
+        <item>"40"</item>
+        <item>"41"</item>
+        <item>"41"</item>
+
+
+        <item>"43"</item>
+        <item>"48"</item>
+        <item>"54"</item>
+        <item>"56"</item>
+        <item>"70"</item>
+        <item>"79"</item>
+        <item>"80"</item>
+        <item>"80"</item>
+        <item>"81"</item>
+        <item>"83"</item>
+        <item>"84"</item>
+        <item>"85"</item>
+        <item>"86"</item>
+        <item>"87"</item>
+
+
+        <item>"89"</item>
+        <item>"89"</item>
+        <item>"90"</item>
+        <item>"91"</item>
+        <item>"91"</item>
+        <item>"92"</item>
+        <item>"92"</item>
+        <item>"93"</item>
+        <item>"94"</item>
+        <item>"94"</item>
+        <item>"95"</item>
+        <item>"95"</item>
+        <item>"96"</item>
+
+
+        <item>"97"</item>
+        <item>"98"</item>
+        <item>"98"</item>
+        <item>"99"</item>
+        <item>"99"</item>
+        <item>"102"</item>
+        <item>"104"</item>
+        <item>"104"</item>
+        <item>"105"</item>
+        <item>"105"</item>
+        <item>"106"</item>
+        <item>"107"</item>
+        <item>"107"</item>
+        <item>"108"</item>
+
+
+        <item>"108"</item>
+        <item>"109"</item>
+        <item>"109"</item>
+        <item>"110"</item>
+        <item>"110"</item>
+        <item>"111"</item>
+        <item>"112"</item>
+        <item>"112"</item>
+        <item>"113"</item>
+        <item>"113"</item>
+        <item>"114"</item>
+        <item>"114"</item>
+        <item>"115"</item>
+
+
+        <item>"115"</item>
+        <item>"115"</item>
+        <item>"116"</item>
+        <item>"117"</item>
+        <item>"117"</item>
+        <item>"117"</item>
+        <item>"118"</item>
+        <item>"118"</item>
+        <item>"119"</item>
+        <item>"119"</item>
+        <item>"119"</item>
+        <item>"120"</item>
+        <item>"120"</item>
+        <item>"120"</item>
+
+        <item>"121"</item>
+        <item>"121"</item>
+        <item>"122"</item>
+        <item>"122"</item>
+        <item>"123"</item>
+        <item>"124"</item>
+        <item>"125"</item>
+        <item>"126"</item>
+        <item>"126"</item>
+        <item>"127"</item>
+        <item>"127"</item>
+        <item>"128"</item>
+        <item>"128"</item>
+
+
+        <item>"129"</item>
+        <item>"129"</item>
+        <item>"130"</item>
+        <item>"132"</item>
+        <item>"133"</item>
+        <item>"133"</item>
+        <item>"134"</item>
+        <item>"134"</item>
+        <item>"135"</item>
+        <item>"135"</item>
+        <item>"136"</item>
+        <item>"136"</item>
+
+        <item>"137"</item>
+        <item>"137"</item>
+        <item>"139"</item>
+        <item>"139"</item>
+        <item>"140"</item>
+        <item>"141"</item>
+        <item>"141"</item>
+        <item>"142"</item>
+        <item>"142"</item>
+        <item>"143"</item>
+        <item>"143"</item>
+
+        <item>"143"</item>
+        <item>"144"</item>
+        <item>"147"</item>
+        <item>"153"</item>
+        <item>"154"</item>
+
+
+    </array>
+    <string-array name="name">
+        <item>@string/summarry1</item>
+        <item>@string/summarry2</item>
+        <item>@string/summarry3</item>
+        <item>@string/summarry4</item>
+        <item>@string/summarry5</item>
+        <item>@string/summarry6</item>
+        <item>@string/summarry7</item>
+        <item>@string/summarry8</item>
+        <item>@string/summarry9</item>
+        <item>@string/summarry10</item>
+        <item>@string/summarry11</item>
+        <item>@string/summarry12</item>
+        <item>@string/summarry13</item>
+        <item>@string/summarry14</item>
+        <item>@string/summarry15</item>
+        <item>@string/summarry16</item>
+        <item>@string/summarry17</item>
+        <item>@string/summarry18</item>
+        <item>@string/summarry19</item>
+        <item>@string/summarry20</item>
+        <item>@string/summarry21</item>
+        <item>@string/summarry22</item>
+        <item>@string/summarry23</item>
+        <item>@string/summarry24</item>
+        <item>@string/summarry25</item>
+        <item>@string/summarry26</item>
+        <item>@string/summarry27</item>
+        <item>@string/summarry28</item>
+        <item>@string/summarry29</item>
+        <item>@string/summarry30</item>
+        <item>@string/summarry31</item>
+        <item>@string/summarry32</item>
+        <item>@string/summarry33</item>
+        <item>@string/summarry34</item>
+        <item>@string/summarry35</item>
+        <item>@string/summarry36</item>
+        <item>@string/summarry37</item>
+        <item>@string/summarry38</item>
+        <item>@string/summarry39</item>
+        <item>@string/summarry40</item>
+        <item>@string/summarry41</item>
+        <item>@string/summarry42</item>
+        <item>@string/summarry43</item>
+        <item>@string/summarry44</item>
+        <item>@string/summarry45</item>
+        <item>@string/summarry46</item>
+        <item>@string/summarry47</item>
+        <item>@string/summarry48</item>
+        <item>@string/summarry49</item>
+        <item>@string/summarry50</item>
+        <item>@string/summarry51</item>
+        <item>@string/summarry52</item>
+        <item>@string/summarry53</item>
+        <item>@string/summarry54</item>
+        <item>@string/summarry55</item>
+        <item>@string/summarry56</item>
+        <item>@string/summarry57</item>
+        <item>@string/summarry58</item>
+        <item>@string/summarry59</item>
+        <item>@string/summarry60</item>
+        <item>@string/summarry61</item>
+        <item>@string/summarry62</item>
+        <item>@string/summarry63</item>
+        <item>@string/summarry64</item>
+        <item>@string/summarry65</item>
+        <item>@string/summarry66</item>
+        <item>@string/summarry67</item>
+        <item>@string/summarry68</item>
+        <item>@string/summarry69</item>
+        <item>@string/summarry70</item>
+        <item>@string/summarry71</item>
+        <item>@string/summarry72</item>
+        <item>@string/summarry73</item>
+        <item>@string/summarry74</item>
+        <item>@string/summarry75</item>
+        <item>@string/summarry76</item>
+        <item>@string/summarry77</item>
+        <item>@string/summarry78</item>
+        <item>@string/summarry79</item>
+        <item>@string/summarry80</item>
+        <item>@string/summarry81</item>
+        <item>@string/summarry82</item>
+        <item>@string/summarry83</item>
+        <item>@string/summarry84</item>
+        <item>@string/summarry85</item>
+        <item>@string/summarry86</item>
+        <item>@string/summarry87</item>
+        <item>@string/summarry88</item>
+        <item>@string/summarry89</item>
+        <item>@string/summarry90</item>
+        <item>@string/summarry91</item>
+        <item>@string/summarry92</item>
+        <item>@string/summarry93</item>
+        <item>@string/summarry94</item>
+        <item>@string/summarry95</item>
+        <item>@string/summarry96</item>
+        <item>@string/summarry97</item>
+        <item>@string/summarry98</item>
+        <item>@string/summarry99</item>
+        <item>@string/summarry100</item>
+        <item>@string/summarry101</item>
+        <item>@string/summarry102</item>
+        <item>@string/summarry103</item>
+        <item>@string/summarry104</item>
+        <item>@string/summarry105</item>
+        <item>@string/summarry106</item>
+        <item>@string/summarry107</item>
+        <item>@string/summarry108</item>
+        <item>@string/summarry109</item>
+        <item>@string/summarry110</item>
+        <item>@string/summarry111</item>
+        <item>@string/summarry112</item>
+        <item>@string/summarry_kaleb</item>
+        <item>@string/summarry113</item>
+        <item>@string/summarry114</item>
+        <item>@string/summarry115</item>
+        <item>@string/summarry116</item>
+        <item>@string/summarry117</item>
+        <item>@string/summarry118</item>
+        <item>@string/summarry119</item>
+        <item>@string/summarry120</item>
+        <item>@string/summarry121</item>
+        <item>@string/summarry122</item>
+        <item>@string/summarry123</item>
+        <item>@string/summarry124</item>
+        <item>@string/summarry125</item>
+        <item>@string/summarry126</item>
+        <item>@string/summarry127</item>
+        <item>@string/summarry128</item>
+        <item>@string/summarry129</item>
+        <item>@string/summarry130</item>
+        <item>@string/summarry131</item>
+        <item>@string/summarry132</item>
+        <item>@string/summarry133</item>
+
+
+    </string-array>
+
+
+</resources>
