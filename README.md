@@ -9,3 +9,5 @@ Hisn Al Muslim Book
 فهرس يسهل الوصول لمحتويات الكتاب
 
 You can download it from play store https://play.google.com/store/apps/details?id=com.wridmob.hissenmuslem
+
+You can download apk file https://github.com/RiadhRahmi/HissenMuslem/blob/master/app/app-release.apk?raw=true
